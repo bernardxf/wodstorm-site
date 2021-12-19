@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Army';
+  src: url('../fonts/army.eot');
+  src: url('../fonts/army.eot') format('embedded-opentype'),
+  url('../fonts/army.woff') format('woff'),
+  url('../fonts/army.ttf') format('truetype'),
+  url('../fonts/army.svg#Army') format('svg');
+}
